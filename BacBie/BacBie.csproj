@@ -169,6 +169,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\ToWwwRootBackesBienen.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -195,6 +196,19 @@
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
     <Content Include="Views\Home\Index.cshtml" />
+    <Content Include="Views\Home\AblegerBienenWaben.cshtml" />
+    <Content Include="Views\Home\AblegerBienenWabenBeute.cshtml" />
+    <Content Include="Views\Home\AblegerBienenWabenZarge.cshtml" />
+    <Content Include="Views\Home\BeuteAbleger.cshtml" />
+    <Content Include="Views\Home\Koenigin.cshtml" />
+    <Content Include="Views\Home\Zarge.cshtml" />
+    <Content Include="Views\Home\WabenGZ.cshtml" />
+    <Content Include="Views\Home\Bienen.cshtml" />
+    <Content Include="Views\Home\WabenFZ.cshtml" />
+    <Content Include="Views\Home\ZargeFZ.cshtml" />
+    <Content Include="Views\Home\BeuteWV.cshtml" />
+    <Content Include="Views\Home\WabenGZDN.cshtml" />
+    <Content Include="Views\Home\BeuteMini.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
