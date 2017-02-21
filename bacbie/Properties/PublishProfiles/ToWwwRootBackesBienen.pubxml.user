@@ -19,7 +19,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
     <File Include="bin/BacBie.dll">
-      <publishTime>02/20/2017 17:11:46</publishTime>
+      <publishTime>02/21/2017 17:44:49</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>02/20/2017 11:29:24</publishTime>
@@ -121,7 +121,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
     <File Include="css/landing-page.css">
-      <publishTime>02/20/2017 12:19:47</publishTime>
+      <publishTime>02/21/2017 17:18:43</publishTime>
+    </File>
+    <File Include="css/_myStyle_footer.css">
+      <publishTime>02/21/2017 17:19:21</publishTime>
     </File>
     <File Include="favicon.ico">
       <publishTime>02/20/2017 11:29:24</publishTime>
@@ -156,6 +159,9 @@ by editing this MSBuild file. In order to learn more about this please visit htt
     <File Include="Scripts/bootstrap.min.js">
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
+    <File Include="Scripts/facebook.js">
+      <publishTime>02/21/2017 17:39:19</publishTime>
+    </File>
     <File Include="Scripts/jquery-1.10.2.js">
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
@@ -187,7 +193,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/21/2017 17:38:42</publishTime>
     </File>
     <File Include="Views/Home/AblegerBienenWaben.cshtml">
       <publishTime>02/20/2017 16:32:27</publishTime>
@@ -211,13 +217,28 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/20/2017 16:50:04</publishTime>
     </File>
     <File Include="Views/Home/Bienen.cshtml">
-      <publishTime>02/20/2017 16:52:26</publishTime>
+      <publishTime>02/21/2017 12:11:42</publishTime>
+    </File>
+    <File Include="Views/Home/BienenAbleger.cshtml">
+      <publishTime>02/21/2017 12:17:50</publishTime>
+    </File>
+    <File Include="Views/Home/BienenMini.cshtml">
+      <publishTime>02/21/2017 12:20:21</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
+    <File Include="Views/Home/Datenschutz.cshtml">
+      <publishTime>02/21/2017 17:35:34</publishTime>
+    </File>
+    <File Include="Views/Home/Footer.cshtml">
+      <publishTime>02/21/2017 17:43:31</publishTime>
+    </File>
+    <File Include="Views/Home/Impressum.cshtml">
+      <publishTime>02/21/2017 17:31:48</publishTime>
+    </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>02/20/2017 17:10:29</publishTime>
+      <publishTime>02/21/2017 17:40:05</publishTime>
     </File>
     <File Include="Views/Home/Koenigin.cshtml">
       <publishTime>02/20/2017 15:47:42</publishTime>

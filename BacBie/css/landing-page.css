@@ -115,11 +115,12 @@ h6 {
 }
 
 .banner {
-    padding: 100px 0;
+    padding-top: 100px 0;
     color: #f8f8f8;
     background: url(../img/bee/bee-in-the-approach-209145_960_720.jpg);
     background-size: cover;
     background-position: left;
+    height: 500px;
 
     /*background-image: url("img_tree.png");
     background-repeat: no-repeat;
@@ -178,4 +179,26 @@ p.copyright {
 
 #accordion {
     margin-top: 1em;
+}
+
+#facebookItem {
+    position: absolute;
+    top: .5em;
+    right: .5em;
+}
+
+/*.carousel-control-next, .carousel-control-prev {
+    color: black;
+}*/
+
+.carousel-control-next-icon, .carousel-control-prev-icon {
+    background-color: lightgray;
+}
+
+.carousel-indicators li {
+    background-color: lightgray;
+}
+
+.carousel-indicators .active {
+    background-color: grey;;
 }
