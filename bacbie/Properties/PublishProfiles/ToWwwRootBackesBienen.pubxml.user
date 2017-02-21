@@ -160,7 +160,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
     <File Include="Scripts/facebook.js">
-      <publishTime>02/21/2017 17:39:19</publishTime>
+      <publishTime>02/21/2017 17:57:30</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
       <publishTime>02/20/2017 11:29:23</publishTime>
@@ -232,13 +232,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/21/2017 17:35:34</publishTime>
     </File>
     <File Include="Views/Home/Footer.cshtml">
-      <publishTime>02/21/2017 17:43:31</publishTime>
+      <publishTime>02/21/2017 17:56:17</publishTime>
     </File>
     <File Include="Views/Home/Impressum.cshtml">
       <publishTime>02/21/2017 17:31:48</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>02/21/2017 17:40:05</publishTime>
+      <publishTime>02/21/2017 17:49:18</publishTime>
     </File>
     <File Include="Views/Home/Koenigin.cshtml">
       <publishTime>02/20/2017 15:47:42</publishTime>
