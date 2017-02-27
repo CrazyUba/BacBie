@@ -10,268 +10,277 @@ by editing this MSBuild file. In order to learn more about this please visit htt
   </PropertyGroup>
   <ItemGroup>
     <File Include="ApplicationInsights.config">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="bin/Antlr3.Runtime.dll">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/ApplicationInsights.config">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.compiled">
+      <publishTime>02/27/2017 16:36:36</publishTime>
+    </File>
+    <File Include="bin/App_global.asax.dll">
+      <publishTime>02/27/2017 16:36:36</publishTime>
     </File>
     <File Include="bin/BacBie.dll">
-      <publishTime>02/21/2017 17:44:49</publishTime>
+      <publishTime>02/27/2017 12:29:01</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.DependencyCollector.dll">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.PerfCounterCollector.dll">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.ServerTelemetryChannel.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Web.dll">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.WindowsServer.dll">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.ApplicationInsights.dll">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/Microsoft.Web.Infrastructure.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/Newtonsoft.Json.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/System.Collections.Immutable.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/System.Reflection.Metadata.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/vbc.exe">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/roslyn/VBCSCompiler.exe.config">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/System.Web.Mvc.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/System.Web.Optimization.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/System.Web.Razor.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Deployment.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/System.Web.WebPages.Razor.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:06</publishTime>
     </File>
     <File Include="bin/WebGrease.dll">
-      <publishTime>02/20/2017 11:29:25</publishTime>
+      <publishTime>02/27/2017 12:22:07</publishTime>
     </File>
     <File Include="Content/bootstrap.css">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Content/bootstrap.min.css">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Content/Site.css">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="css/landing-page.css">
-      <publishTime>02/21/2017 17:18:43</publishTime>
+      <publishTime>02/27/2017 16:44:28</publishTime>
     </File>
     <File Include="css/_myStyle_footer.css">
-      <publishTime>02/21/2017 17:19:21</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="favicon.ico">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.eot">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.svg">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.ttf">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="fonts/glyphicons-halflings-regular.woff">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Global.asax">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="packages.config">
-      <publishTime>02/20/2017 11:29:24</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>02/27/2017 16:36:32</publishTime>
     </File>
     <File Include="Scripts/ai.0.22.9-build00167.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/ai.0.22.9-build00167.min.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/bootstrap.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/bootstrap.min.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/facebook.js">
-      <publishTime>02/21/2017 17:57:30</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/jquery-1.10.2.min.map">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.min.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/jquery.validate.unobtrusive.min.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/modernizr-2.6.2.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/respond.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/respond.min.js">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>02/21/2017 17:38:42</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Views/Home/AblegerBienenWaben.cshtml">
-      <publishTime>02/20/2017 16:32:27</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/AblegerBienenWabenBeute.cshtml">
-      <publishTime>02/20/2017 15:58:52</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/AblegerBienenWabenZarge.cshtml">
-      <publishTime>02/20/2017 15:58:11</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/About.cshtml">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Views/Home/BeuteAbleger.cshtml">
-      <publishTime>02/22/2017 13:45:18</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/BeuteMini.cshtml">
-      <publishTime>02/20/2017 17:09:17</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/BeuteWV.cshtml">
-      <publishTime>02/22/2017 13:45:12</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/Bienen.cshtml">
-      <publishTime>02/21/2017 12:11:42</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/BienenAbleger.cshtml">
-      <publishTime>02/21/2017 12:17:50</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/BienenMini.cshtml">
-      <publishTime>02/21/2017 12:20:21</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/Contact.cshtml">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Views/Home/Datenschutz.cshtml">
-      <publishTime>02/21/2017 17:35:34</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/Footer.cshtml">
-      <publishTime>02/21/2017 17:56:17</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/Impressum.cshtml">
-      <publishTime>02/21/2017 17:31:48</publishTime>
+      <publishTime>02/27/2017 14:12:42</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>02/21/2017 17:49:18</publishTime>
+      <publishTime>02/27/2017 16:53:23</publishTime>
     </File>
     <File Include="Views/Home/Koenigin.cshtml">
-      <publishTime>02/20/2017 15:47:42</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/WabenFZ.cshtml">
-      <publishTime>02/20/2017 16:47:15</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/WabenGZ.cshtml">
-      <publishTime>02/20/2017 16:45:32</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/WabenGZDN.cshtml">
-      <publishTime>02/20/2017 17:05:36</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/Zarge.cshtml">
-      <publishTime>02/20/2017 16:53:23</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/ZargeFZ.cshtml">
-      <publishTime>02/20/2017 16:53:12</publishTime>
+      <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Shared/Error.cshtml">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Views/Shared/_Layout.cshtml">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Views/Web.config">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Views/_ViewStart.cshtml">
-      <publishTime>02/20/2017 11:29:23</publishTime>
+      <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>02/20/2017 11:46:58</publishTime>
+      <publishTime>02/27/2017 16:39:27</publishTime>
     </File>
   </ItemGroup>
 </Project>
