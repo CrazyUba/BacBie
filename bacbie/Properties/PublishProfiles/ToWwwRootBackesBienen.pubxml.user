@@ -208,13 +208,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/20/2017 11:29:23</publishTime>
     </File>
     <File Include="Views/Home/BeuteAbleger.cshtml">
-      <publishTime>02/20/2017 16:49:58</publishTime>
+      <publishTime>02/22/2017 13:45:18</publishTime>
     </File>
     <File Include="Views/Home/BeuteMini.cshtml">
       <publishTime>02/20/2017 17:09:17</publishTime>
     </File>
     <File Include="Views/Home/BeuteWV.cshtml">
-      <publishTime>02/20/2017 16:50:04</publishTime>
+      <publishTime>02/22/2017 13:45:12</publishTime>
     </File>
     <File Include="Views/Home/Bienen.cshtml">
       <publishTime>02/21/2017 12:11:42</publishTime>
