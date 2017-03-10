@@ -25,7 +25,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/27/2017 16:36:36</publishTime>
     </File>
     <File Include="bin/BacBie.dll">
-      <publishTime>02/27/2017 12:29:01</publishTime>
+      <publishTime>03/06/2017 12:16:11</publishTime>
     </File>
     <File Include="bin/Microsoft.AI.Agent.Intercept.dll">
       <publishTime>02/27/2017 12:22:06</publishTime>
@@ -217,13 +217,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/27/2017 12:21:51</publishTime>
     </File>
     <File Include="Views/Home/BeuteAbleger.cshtml">
-      <publishTime>02/27/2017 12:21:52</publishTime>
+      <publishTime>03/06/2017 12:15:28</publishTime>
     </File>
     <File Include="Views/Home/BeuteMini.cshtml">
-      <publishTime>02/27/2017 12:21:52</publishTime>
+      <publishTime>03/06/2017 12:15:15</publishTime>
     </File>
     <File Include="Views/Home/BeuteWV.cshtml">
-      <publishTime>02/27/2017 12:21:52</publishTime>
+      <publishTime>03/06/2017 12:15:34</publishTime>
     </File>
     <File Include="Views/Home/Bienen.cshtml">
       <publishTime>02/27/2017 12:21:52</publishTime>
@@ -241,13 +241,13 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>02/27/2017 12:21:52</publishTime>
     </File>
     <File Include="Views/Home/Footer.cshtml">
-      <publishTime>02/27/2017 12:21:52</publishTime>
+      <publishTime>03/08/2017 10:20:37</publishTime>
     </File>
     <File Include="Views/Home/Impressum.cshtml">
       <publishTime>02/27/2017 14:12:42</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>02/27/2017 16:53:23</publishTime>
+      <publishTime>03/10/2017 15:20:40</publishTime>
     </File>
     <File Include="Views/Home/Koenigin.cshtml">
       <publishTime>02/27/2017 12:21:52</publishTime>
